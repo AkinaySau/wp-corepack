@@ -1,0 +1,13 @@
+{
+    "name": "sau/wp-corepack",
+    "description": "Basic lib for fast develop in wp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sau",
+            "email": "akinaysau@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
